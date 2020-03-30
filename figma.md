@@ -3,6 +3,7 @@
 - `f`: Frame tool
 - `⇧0`: Zoom to 100%
 - `⇧1`: Zoom to fit
+- `⌃G`: Toggle grid visibility
 
 ## Grids
 
