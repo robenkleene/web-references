@@ -4,6 +4,7 @@
 - `⇧0`: Zoom to 100%
 - `⇧1`: Zoom to fit
 - `⌃G`: Toggle grid visibility
+- `⌘O`: Open file browser (right-most tab)
 
 ## Grids
 
