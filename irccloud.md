@@ -1,0 +1,3 @@
+# IRCCloud
+
+- `⌥↓` / `⌥↑`: Next / previous channel
