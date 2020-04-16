@@ -5,6 +5,12 @@
 - `⇧1`: Zoom to fit
 - `⌃G`: Toggle grid visibility
 - `⌘O`: Open file browser (right-most tab)
+- `⇧⌃?`: Show help
+
+## Type
+
+- `⇧⌘<` / `⇧⌘>`: Decrease / increase font size
+- `⌥8`: Insert a bullet
 
 ## Grids
 
