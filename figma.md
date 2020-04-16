@@ -14,6 +14,10 @@
 - `⇧⌥<` / `⇧⌥>`: Decrease / increase line height
 - `⌥8`: Insert a bullet
 
+## Frames
+
+To resize the Frame, without moving the contents, hold `⌘` while resizing
+
 ## Grids
 
 - To create a grid, select a frame, and under "Design" in the right sidebar, find "Layout Grid".
