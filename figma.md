@@ -6,10 +6,12 @@
 - `⌃G`: Toggle grid visibility
 - `⌘O`: Open file browser (right-most tab)
 - `⇧⌃?`: Show help
+- `⌘/`: Command Palette
 
 ## Type
 
 - `⇧⌘<` / `⇧⌘>`: Decrease / increase font size
+- `⇧⌥<` / `⇧⌥>`: Decrease / increase line height
 - `⌥8`: Insert a bullet
 
 ## Grids
@@ -20,3 +22,7 @@
 ## Tips
 
 To go back to all files, click the Figma icon in the upper left.
+
+## Snap
+
+- Snap settings are under "Preferences
