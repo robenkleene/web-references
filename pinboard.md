@@ -1,0 +1,3 @@
+# Pinboard
+
+- `/`: Focus search
