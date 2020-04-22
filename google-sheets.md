@@ -2,7 +2,7 @@
 
 - `⇧␣`: Select row
 - `⌃␣`: Select column
-- `⌃⌥-`: Delete row (with it selected)
+- `⌃⌥-`: Delete row (with it selected) (This doesn't always work?)
 
 ## Notes
 
