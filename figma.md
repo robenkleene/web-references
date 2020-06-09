@@ -4,6 +4,10 @@
 - `⇧⌃?`: Show help
 - `⌘/`: Command Palette
 
+## Shapes
+
+- `r`: Rectangle tool
+
 ## Grid
 
 - `⌃G`: Toggle grid visibility
