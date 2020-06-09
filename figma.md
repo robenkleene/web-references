@@ -1,12 +1,17 @@
 # Figma
 
-- `f`: Frame tool
-- `⇧0`: Zoom to 100%
-- `⇧1`: Zoom to fit
-- `⌃G`: Toggle grid visibility
 - `⌘O`: Open file browser (right-most tab)
 - `⇧⌃?`: Show help
 - `⌘/`: Command Palette
+
+## Grid
+
+- `⌃G`: Toggle grid visibility
+
+## Zoom
+
+- `⇧0`: Zoom to 100%
+- `⇧1`: Zoom to fit
 
 ## Type
 
@@ -15,6 +20,8 @@
 - `⌥8`: Insert a bullet
 
 ## Frames
+
+- `f`: Frame tool
 
 To resize the Frame, without moving the contents, hold `⌘` while resizing
 
