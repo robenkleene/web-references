@@ -1,3 +1,3 @@
 # DuckDuckGo
 
-- `! [term]`: Feeling Lucky
+- `\[term]`: Feeling Lucky
