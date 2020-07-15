@@ -8,10 +8,6 @@
 
 - `r`: Rectangle tool
 
-## Grid
-
-- `⌃G`: Toggle grid visibility
-
 ## Zoom
 
 - `⇧0`: Zoom to 100%
@@ -23,16 +19,11 @@
 - `⇧⌥<` / `⇧⌥>`: Decrease / increase line height
 - `⌥8`: Insert a bullet
 
-## Frames
+## Tools
 
-- `f`: Frame tool
+- `F`: Frame tool
 
 To resize the Frame, without moving the contents, hold `⌘` while resizing
-
-## Grids
-
-- To create a grid, select a frame, and under "Design" in the right sidebar, find "Layout Grid".
-- To switch it to a layout grid, click the icon for the grid under "Layout Grid" and change "Grid" to "Column".
 
 ## Projects
 
