@@ -3,6 +3,12 @@
 - `⌥1`: Switch to layers
 - `⌥2`: Switch to assets
 
+## Notes
+
+- Prefixing component names with `_` or `.` hides them from being published. You can use this to create "atomic" components, components that are just used as a base for other components.
+- A strategy that's sometimes useful is nesting states into different layers in a component (e.g., layers for a button called `Normal`, `Pressed`, `Focused`, and `Disabled`). States can then be toggled in the component by hiding and showing layers. General using separate components for separate states is preferred because it's more discoverable.
+- You can new components into other components. A use case for this is supporting themes, e.g., light and dark version of a design.
+
 ## Best Practices
 
 - Name a component `Navigation/Button/Active` to automatically place a `Active` component `Navigation/Button` category.
