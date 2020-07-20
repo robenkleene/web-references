@@ -35,4 +35,5 @@ To go back to all files, click the Figma icon in the upper left.
 
 ## Snap
 
-- Snap settings are under "Preferences
+- Snap settings are under "Preferences"
+- Snapping to the grid only works for direct children of the element the grid is applied to. The work around to is to also add the grid to child elements.
