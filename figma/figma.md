@@ -31,7 +31,8 @@ With a team selected, the "New Project" button is far in the upper right.
 
 ## Tips
 
-To go back to all files, click the Figma icon in the upper left.
+- To go back to all files, click the Figma icon in the upper left.
+- Auto-layout is mainly about the spacing between elements.
 
 ## Snap
 
