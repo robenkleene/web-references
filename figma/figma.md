@@ -19,11 +19,11 @@
 - `⇧⌥<` / `⇧⌥>`: Decrease / increase line height
 - `⌥8`: Insert a bullet
 
-## Tools
+## Frames
 
+- Frames are intended to represent the screen size of the device being designed for
 - `F`: Frame tool
-
-To resize the Frame, without moving the contents, hold `⌘` while resizing
+- To resize the Frame, without moving the contents, hold `⌘` while resizing
 
 ## Projects
 
