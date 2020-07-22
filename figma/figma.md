@@ -3,6 +3,7 @@
 - `⌘O`: Open file browser (right-most tab)
 - `⇧⌃?`: Show help
 - `⌘/`: Command Palette
+- Hold `⌘` to resize while ignoring constraints
 
 ## Shapes
 
