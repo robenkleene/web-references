@@ -2,6 +2,7 @@
 
 - `⌥1`: Switch to layers
 - `⌥2`: Switch to assets
+- Components are analogous to frames, so they can have background color, but they can't for example have rounded corners like rectangle layers can.
 
 ## Notes
 
