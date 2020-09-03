@@ -3,6 +3,7 @@
 - `⌥1`: Switch to layers
 - `⌥2`: Switch to assets
 - Components are analogous to frames, so they can have background color, but they can't for example have rounded corners like rectangle layers can.
+- Styles are like components but they're just collections of properties, they can't have layers.
 
 ## Notes
 
