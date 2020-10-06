@@ -10,4 +10,8 @@
 
 ## Notes
 
-In Slack, @channel sends notifications to everyone and @here sends notifications only to people that are currently active
+In Slack, `@channel` sends notifications to everyone and @here sends notifications only to people that are currently active
+
+## Previews
+
+Previews, e.g., for blog posts, will only show up if the image assets are less than 2 MB.
