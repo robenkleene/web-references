@@ -2,6 +2,11 @@
 
 - `⎋`: Deselect object
 
+## Text Editing
+
+- `⇥`: Indent list item
+- `⇧⇥`: Un-indent list item
+
 ## Labeled Lines
 
 - Google Drawings doesn't support adding labels to lines, the best substitute is to add text box in between two lines.
