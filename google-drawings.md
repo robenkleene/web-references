@@ -17,3 +17,7 @@
 ## Keyboard Shortcuts
 
 - There isn't a keyboard shortcut for inserting a shape easily. It's best to make a shape and then cut and paste it.
+
+## Tips
+
+- To get more space, select `View > Zoom > 50%`
