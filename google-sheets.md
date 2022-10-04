@@ -7,6 +7,7 @@
 
 ## Notes
 
+- To expand all headers, select the cell above the first row (lettered cells), then use `⌘A` to select all, then double click the header border to expand
 - To clip cells, `Format > Text Wrapping > Clip`
 - To wrap, tap the Wrap icon (three lines overlaid with a return icon) in the menu bar
 - Use `view -> Freeze` to create a header
