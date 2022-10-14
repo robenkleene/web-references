@@ -1,5 +1,7 @@
 # Google Docs
 
+- To switch to "pageless": `File -> Page Setup`
+
 ## Tasks
 
 - To assign a task to a user, start the task with their name, if that doesn't work, add a comment and mention their name or email address in it
