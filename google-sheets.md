@@ -4,6 +4,7 @@
 - `⌃␣`: Select column
 - `⌃⌥-`: Delete row (with it selected) (This doesn't always work?)
 - `⌥↓` / `⌥↑`: Move to next / previous sheet
+- `↩`: Edit current cell
 
 ## Notes
 
