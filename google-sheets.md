@@ -1,5 +1,6 @@
 # Google Sheets
 
+- `⌥/`: Search help
 - `⇧␣`: Select row
 - `⌃␣`: Select column
 - `⌃⌥-`: Delete row (with it selected) (This doesn't always work?)
