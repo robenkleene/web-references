@@ -13,3 +13,8 @@
 ## Comments
 
 - Add a carriage return in a comment with `⇧↩`
+
+## Links
+
+- `⌘K`: Add link
+- To remove a link, click the eye icon in the link popup
