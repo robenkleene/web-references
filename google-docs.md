@@ -18,3 +18,9 @@
 
 - `⌘K`: Add link
 - To remove a link, click the eye icon in the link popup
+
+## Troubleshooting
+
+### List Numbering
+
+- To fix bulleted lists with the wrong numbering, select the whole list and choose `Format > Bullets & numbering > Numbered list menu`
