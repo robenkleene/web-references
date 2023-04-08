@@ -2,7 +2,11 @@
 
 - `/`: Focus search
 
-## Rename Tag
+## Tags
+
+- Tags prefixed with a `.` are private
+
+### Rename Tag
 
 1. Go to the page for the old tag
 2. Click the `edit` link
