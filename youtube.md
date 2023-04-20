@@ -1,6 +1,9 @@
 # YouTube
 
-- `l` / `j`: Skip forward / backward 10 seconds
+- `␣` / `k`: Play pause
+- `l` / `j`: Forward / backward 10 seconds
+- `←` / `→`: Forward / backward five seconds
+- `,` / `.`: Forward / backward one frame
 
 ## Notes
 
