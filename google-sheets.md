@@ -1,11 +1,24 @@
 # Google Sheets
 
-- `⌥/`: Search help
+- `↩`: Edit current cell
+
+## Inserting
+
+- `⇧⌘=`: Contextual menu to insert row or column
+
+## Selecting
+
 - `⇧␣`: Select row
 - `⌃␣`: Select column
+
+## Deleting
+
 - `⌃⌥-`: Delete row (with it selected) (This doesn't always work?)
+- `⇧⌘-`: Contextual menu to delete row or column
+
+## Tabs
+
 - `⌥↓` / `⌥↑`: Move to next / previous sheet
-- `↩`: Edit current cell
 
 ## Notes
 
