@@ -18,6 +18,15 @@
 
 - `⌘K`: Add link
 - To remove a link, click the eye icon in the link popup
+- For Google Docs/Slides/Sheets links, just cut and paste the raw link in and it'll give a pop-up to replace with a custom token
+
+## Dates
+
+- Enter `@date` to enter a date from a calendar
+
+## Usernames
+
+- Enger `@<username>`
 
 ## Troubleshooting
 
