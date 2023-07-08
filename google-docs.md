@@ -2,6 +2,10 @@
 
 - To switch to "pageless": `File -> Page Setup`
 
+## Markdown
+
+- `Tools > Preferences > Automatically detect Markdown`: Toggle Markdown support (just turn this off because the backtick support for inline code snippets seems to just automatically apply a color and font instead of a semantic style, which makes it difficult to style the right subset of text)
+
 ## Tasks
 
 - To assign a task to a user, start the task with their name, if that doesn't work, add a comment and mention their name or email address in it
