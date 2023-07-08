@@ -18,7 +18,7 @@
 
 - `⌘K`: Add link
 - To remove a link, click the eye icon in the link popup
-- For Google Docs/Slides/Sheets links, just cut and paste the raw link in and it'll give a pop-up to replace with a custom token
+- For Google Docs/Slides/Sheets links, just cut and paste the raw link in and it'll give a pop-up to replace with a custom token (just hit `⇥` to accept the token)
 
 ## Dates
 
