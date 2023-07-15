@@ -1,8 +1,17 @@
 # Google Docs
 
+## Keyboard Shortcuts
+
+- `⌥⌘0`: Normal text
+- `⌥⌘1`: Heading 1
+- `⌥⌘2`: Heading 2
+- `⌥⌘3`: Heading 3
+
+## Settings
+
 - To switch to "pageless": `File -> Page Setup`
 
-## Markdown
+### Markdown
 
 - `Tools > Preferences > Automatically detect Markdown`: Toggle Markdown support (just turn this off because the backtick support for inline code snippets seems to just automatically apply a color and font instead of a semantic style, which makes it difficult to style the right subset of text)
 
