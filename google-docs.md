@@ -7,6 +7,10 @@
 - `⌥⌘2`: Heading 2
 - `⌥⌘3`: Heading 3
 
+### Outline
+
+- `⌘[` / `⌘]`: Outdent / indent (also works with selection)
+
 ## Settings
 
 - To switch to "pageless": `File -> Page Setup`
@@ -21,7 +25,7 @@
 
 ## Formatting
 
-- To copy formatting, use the "Paint format" tool (paint roller icon), first select something in the style you want to copy, then click the paint roller icon, then click something you want to apply that style too. Double-click the paint roller icon to apply the same style to many items.
+- To copy formatting, use the "Paint format "tool (paint roller icon), first select something in the style you want to copy, then click the paint roller icon, then click something you want to apply that style too. Double-click the paint roller icon to apply the same style to many items.
 
 ## Comments
 
