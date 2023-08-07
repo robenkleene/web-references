@@ -38,6 +38,9 @@
 
 - To turn it off for a number cell, choose `Format > Number > Custom Number Format` and choose an option
 
+## Hyperlinks
+
+- To make URLs clickable that aren't by default, do a search and replace in them and click the `Replace All` button
 ## Notes
 
 - To create a select box, use `Data -> Data Validation` and select "List of Items"
