@@ -6,6 +6,12 @@
 
 - `⇧⌘=`: Contextual menu to insert row or column
 
+## Rows & Columns
+
+- `⌥⇧⌘=`: Insert rows/columns (with a column or row selected, this will just insert a column or row, otherwise it will display a menu where you can choose which to insert)
+- `⌥⌘-`: Delete rows/columns (with a column or row selected, this will just delete the column or row, otherwise it will display a menu where you can choose what to delete)
+- `⌃⌥I`: Open insert menu, then `R` can be hit to insert rows or `C` to insert columns
+
 ## Selecting
 
 - `⇧␣`: Select row
