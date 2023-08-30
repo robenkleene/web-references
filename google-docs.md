@@ -10,11 +10,11 @@
 
 ### Outline
 
-- `⌘[` / `⌘]`: Outdent / indent (also works with selection)
+- `⌘[` / `⌘]`: Unindent / indent (also works with selection)
 
-## History
+## Edit History
 
-In the top left, or click the `Last modified` text near the title. This might not be able to access, e.g., if you only have view access to a doc.
+To access document edit history, hit the block in the top left, or click the `Last modified` text near the title. This might not be able to access, e.g., if you only have view access to a doc.
 
 ## Settings
 
@@ -39,7 +39,7 @@ In the top left, or click the `Last modified` text near the title. This might no
 ## Links
 
 - `⌘K`: Add link
-- To remove a link, click the eye icon in the link popup
+- To remove a link, click the eye icon in the link pop-up
 - For Google Docs/Slides/Sheets links, just cut and paste the raw link in and it'll give a pop-up to replace with a custom token (just hit `⇥` to accept the token)
 
 ## Dates
@@ -48,7 +48,7 @@ In the top left, or click the `Last modified` text near the title. This might no
 
 ## Usernames
 
-- Enger `@<username>`
+- Enter `@<username>`
 
 ## Troubleshooting
 
