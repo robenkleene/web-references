@@ -12,6 +12,10 @@
 
 - `⌘[` / `⌘]`: Outdent / indent (also works with selection)
 
+## History
+
+In the top left, or click the `Last modified` text near the title. This might not be able to access, e.g., if you only have view access to a doc.
+
 ## Settings
 
 - To switch to "pageless": `File -> Page Setup`
