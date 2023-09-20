@@ -55,3 +55,11 @@ To access document edit history, hit the block in the top left, or click the `La
 ### List Numbering
 
 - To fix bulleted lists with the wrong numbering, select the whole list and choose `Format > Bullets & numbering > Numbered list menu`
+
+## Converting
+
+### Markdown to Google Docs
+
+Just use `pandoc` then upload to Google Docs:
+
+- `pandoc -i input.md -o output.docx`
