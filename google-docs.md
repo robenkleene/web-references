@@ -7,6 +7,7 @@
 - `⌥⌘2`: Heading 2
 - `⌥⌘3`: Heading 3
 - `⇧⌘X`: Strikethrough
+- `⌘\`: Clear formatting
 
 ### Outline
 
