@@ -19,11 +19,12 @@ To access document edit history, hit the block in the top left, or click the `La
 
 ## Settings
 
-- To switch to "pageless": `File -> Page Setup`
+- To switch to `pageless`: `File -> Page Setup`
 
 ### Markdown
 
-- `Tools > Preferences > Automatically detect Markdown`: Toggle Markdown support (just turn this off because the backtick support for inline code snippets seems to just automatically apply a color and font instead of a semantic style, which makes it difficult to style the right subset of text)
+- `Tools > Preferences > Enable Markdown`: Enable Markdown support
+- `Edit > Paste from Markdown`
 
 ## Tasks
 
