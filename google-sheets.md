@@ -26,9 +26,9 @@
 
 - `⌥↓` / `⌥↑`: Move to next / previous sheet
 
-## Splitting
+## CSV
 
-- `Data > Split text to columns`
+- `Data > Split text to columns`: Split comma-separated values to columns
 
 ## Wrap
 
@@ -47,6 +47,7 @@
 ## Hyperlinks
 
 - To make URLs clickable that aren't by default, do a search and replace in them and click the `Replace All` button
+
 ## Notes
 
 - To create a select box, use `Data -> Data Validation` and select "List of Items"
