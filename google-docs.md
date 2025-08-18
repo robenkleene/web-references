@@ -17,22 +17,9 @@
 
 To access document edit history, hit the block in the top left, or click the `Last modified` text near the title. This might not be able to access, e.g., if you only have view access to a doc.
 
-## Settings
-
-- To switch to `pageless`: `File -> Page Setup`
-
-### Markdown
-
-- `Tools > Preferences > Enable Markdown`: Enable Markdown support
-- `Edit > Paste from Markdown`
-
 ## Tasks
 
 - To assign a task to a user, start the task with their name, if that doesn't work, add a comment and mention their name or email address in it
-
-## Formatting
-
-- To copy formatting, use the "Paint format "tool (paint roller icon), first select something in the style you want to copy, then click the paint roller icon, then click something you want to apply that style too. Double-click the paint roller icon to apply the same style to many items.
 
 ## Comments
 
