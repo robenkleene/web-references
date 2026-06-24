@@ -1,0 +1,13 @@
+Perilous Attacks & Stimulus Response Time
+
+Perilous attacks require taking a stimulus, in this case the attacking characters animation, and choosing the correct response, e.g., generally perilous attacks are ideally responded to by dodging, jumping, or Mikiri Counter, depending on the attack animation.
+
+I'm at the end of the game boss now, and I've never been able to respond with the correct action fast enough nor have I improved at all at this in my ~50 hours of playing the game. E.g., Hanbei the Undying has a Free Combat (Applied), that, intermixed with other moves, includes perilous attacks, that are ideally countered with either a sweep or a Mikiri counter. I noticed right at the start of my playthrough that I couldn't distinguish between the attacks and respond correctly with Hanbei, and spent several hours practicing (e.g., trying to interpret the animation and look at the glint) but didn't see any improvement. So I just started playing and this has continued over the course of my ~50 hour play through, I haven't seen any improvement in my ability use choose the correct counter to perilous attacks.
+
+There are already a bunch of threads about about identifying and responded to perilous attacks, and threads on response time in Sekiro in general, but I don't think any of them have accurately representing this issue as I'm experiencing. E.g., it's commonly discussed as "response time" as measured by tests like on Human Benchmark (I test average on this test). But that's not an accurate representation of the problem, because the issue is identifying the correct choice fast enough (that test just waits for a mouse click, i.e., it's always the same response). E.g., the slow part is mapping the stimuli (character animation), to a response from an array of choices (e.g., dodging, jumping, or Mikiri Counter).
+
+I've found a couple of tests that test response time from multiple choices, I'd be curious to hear people's experiences with perilous attacks and how they score on these tests (I test at ~700 ms myself):
+
+Choice Reaction Time Test
+Typing Reaction Time Test
+Note that I'm aware you can often tell from context which type of perilous attack is coming, I can do that if it's at the end of a long combo, but I can't respond fast enough if it's arbitrary (e.g., commonly with grabs [I can almost do this reliably, but not quite]). I'm also aware some animations have glints.
