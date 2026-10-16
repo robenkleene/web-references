@@ -14,7 +14,7 @@
 
 ## Notifications
 
-- 
+- `Preferences > Notifications > Sounds & Appearance: Show a badge on Slack's icon to indicate new activity`: Toggling this off turns off the badge icon *only for `Channels`*, i.e., the badge will still show for `Direct messages`, even if this is off
 
 ## Notes
 
