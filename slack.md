@@ -8,6 +8,14 @@
 - `⎋`: Remove unread indication for this room
 - `⇧⎋`: remove unread indication for all rooms
 
+## Messages
+
+- Only *messages* can be marked as unread, not `Channels` or `Direct messages` rooms. To mark a message as unread choose `Mark unread` from the contextual menu.
+
+## Notifications
+
+- 
+
 ## Notes
 
 In Slack, `@channel` sends notifications to everyone and @here sends notifications only to people that are currently active
